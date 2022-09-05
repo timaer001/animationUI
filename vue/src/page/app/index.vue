@@ -1,5 +1,7 @@
 <template>
   <div id="app">
+    <router-link to="/jq1">A</router-link> |
+    <router-link to="/jq2">B</router-link> |
     <router-view/>
   </div>
 </template>
